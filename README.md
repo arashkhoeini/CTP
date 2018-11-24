@@ -1,4 +1,4 @@
-# Communere Test Project
+# CMT
 
 This repository contains three main files : 
 
